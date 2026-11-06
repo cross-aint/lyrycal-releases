@@ -111,6 +111,6 @@ Lyrics from [LRCLIB](https://lrclib.net). Built with [Tauri](https://tauri.app).
 
 <div align="center">
 
-Made by <a href="https://github.com/4Redcross">cross aint</a> ♪
+Made by <a href="https://github.com/cross-aint">cross aint</a> ♪
 
 </div>
